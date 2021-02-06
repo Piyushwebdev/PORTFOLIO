@@ -1,0 +1,44 @@
+body{
+ 
+  background: url(IMAGES/PORTFOLIO.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+.navbar{
+	background-color: black;
+}
+.article{
+	border:1px blue;
+}
+#left{
+	
+	background: rgb(0,0,0,0);
+}
+#right{
+    display: none;
+}
+.card{
+	margin-top: 170px;
+	margin-left: 100px;
+	background: black;
+}
+.card-title{
+	font-size: 35px;
+	color:#007bff;
+}
+.card-subtitle{
+	font-size: 35px;
+	color:#007bff;
+	margin-bottom: 15px;s
+}
+.card-text{
+	color:white;
+	margin top:6px;
+	word-spacing:3px;
+}
+.bn{
+	font-weight: 2px;
+     margin-top: 7px;
+	 border: 4px solid #007bff ;
+}

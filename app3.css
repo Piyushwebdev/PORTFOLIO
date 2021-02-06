@@ -1,0 +1,99 @@
+body{
+	background-color: rgb(184, 184, 148,0.5);
+}
+.p1{
+	 background: url(IMAGES/image3.jpg) no-repeat center;
+  background-size: cover;
+ 
+  overflow: hidden;
+  min-height: 300px;
+
+
+}
+.navbar{
+	background-color: rgb(184, 184, 148,0.1);
+}
+.nav-link{
+	color: #3366ff;
+	font-style: bold;
+}
+#h1{
+	color: black;
+font-family: 'Abril Fatface', cursive;
+	margin-top: 40px;
+}
+h3,h4{
+	font-size: 25px;
+	font-style: italic;
+	color:#3366ff;
+}
+hr{
+	border-top: 3px solid white;
+	color: white;
+	width:100%;
+}
+p{
+	color: black;
+    font-style: bold;
+	word-spacing: 3px;
+	margin-bottom: 10px;
+	
+}
+.c1{
+	background-color:rgb(179, 209, 255,0.3);
+	
+	max-width: 900px;
+	margin-right: 500px;
+	margin-left:120px;
+	margin-top: 60px;
+}
+#hd1{
+     margin-top:55px; 
+	border-top: 3px solid white;
+	color: white;
+	width:100%;
+
+}
+.c4{
+	margin-top:20px;
+	margin-left:15px;
+	max-width: 480px;
+}
+.c8{
+	margin-top:20px;
+	max-width: 970px;
+	max-height: 300px;
+}
+.cm8{
+
+	margin-top:200px;
+	margin-left:15px;
+	max-width: 960px;
+}
+.cm4{
+	margin-top:193px;
+	max-width: 460px;
+
+}
+
+h8,h5{
+font-style: bold;
+font-size: 1.5rem;
+font-weight: 500;
+}
+h6,h7,h9{
+	font-size: 1.25rem;
+	font-weight: 500;
+    color:#3366ff
+}
+#ul2,ul3{
+	margin-top: 9px;
+}
+footer{
+	text-align: center;
+	font-weight: 800;
+	font-style: italic;
+	color:#3366ff;
+	font-size:15px;
+
+}

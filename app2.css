@@ -1,0 +1,38 @@
+body{
+ 
+  background: url(IMAGES/portfolio2.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+.navbar{
+	background-color: black;
+}
+.nav-link{
+	 color: #ff0000;
+}
+.container{
+	width: 500px;
+	margin-top:100px;
+}
+.form-group{
+	font-style: bold;
+	color: #ff0000;
+}
+.form-control{
+background-color: #ffffff;
+}
+.btn1{
+	margin-top: 20px;
+	background-color:black;
+	color:white;
+}
+#instagram{
+	max-height: 30px;
+	max-width: 30px;
+}
+.instagram{
+	font-style: bold;
+	color: #ff0000;
+}
+
